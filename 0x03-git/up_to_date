@@ -1,0 +1,2 @@
+git remote add upstream https://github.com/LambosCode/alx-pre_course.git
+git pull upstream master
